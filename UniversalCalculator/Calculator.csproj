@@ -119,6 +119,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CurrencyConvertor.xaml.cs">
+      <DependentUpon>CurrencyConvertor.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Mortgage.xaml.cs">
       <DependentUpon>Mortgage.xaml</DependentUpon>
     </Compile>
@@ -159,6 +162,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="CurrencyConvertor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Mortgage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
