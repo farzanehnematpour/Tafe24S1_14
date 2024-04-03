@@ -20,6 +20,7 @@
 			<Button Content="Math Calculator" Click="mathCalculatorButton_Click" Width="400" Margin="0,10" FontWeight="Bold" Background="#332150C3" Height="140" FontSize="20"/>
 			<Button Content="Mortgage Calculator" Click="mortgageCalculatorButton_Click" Width="400" Margin="0,10" Background="#33143BAC" FontWeight="Bold" Height="140" FontSize="20"/>
 			<Button Content="Currency Conventor" Click="currencyConvertorButton_Click" Width="400" Margin="0,10" Background="#331741B8" FontWeight="Bold" Height="140" FontSize="20"/>
+			<Button Content="Trip Calculator" Click="tripCalcButton_Click" Width="400" Margin="0,10" Background="#331741B8" FontWeight="Bold" Height="140" FontSize="20"/>
 			<Button Content="Exit" Click="exitButton_Click" Width="400" Margin="0,10" Background="#331FB750" FontWeight="Bold" Height="140" FontSize="20"/>
 		</StackPanel>
 
